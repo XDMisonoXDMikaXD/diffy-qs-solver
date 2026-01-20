@@ -17,7 +17,7 @@ def main():
                  [-w**2, -2*z*w]]) #spring-mass-damp system
 
     x0 = np.array([2,1]) #initial conditions
-
+    
     print(x0)
 
 
